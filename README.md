@@ -15,8 +15,8 @@ A command takes the format "@client.command" and is activated when its name is t
  - !time: Prints the current time
  - !joke: Prints a random joke from an array of bad video game puns
  - !pingu: Pings the server and prints latency in ms (as well as saying Noot Noot)
- - !ding: Prints from a random list of aggressive condemnations ('ding' is the username of the member who requested the function)
- - !yeet: Kicks a member from the server (!yeet [member.name]) - note that this is not listed in "!intro" because it is an administrator-      only command
+ - !clear: Clears a number of the most recent messages (including the command itself). The default is one more than the message itself, but it can read arguments
+ - !yeet: Kicks a member from the server (!yeet [member.name])
 
 The on_message code responds passively to any message which triggers its conditionals. Here are the functioning conditionals:
 
