@@ -27,7 +27,7 @@ async def intro(ctx):
 async def on_message(message):
         # React to Michael
         if message.author.name == 'God has forsaken us':
-                emoji = client.get.emoji(636410883387686912)
+                emoji = '😡'
                 await message.add_reaction(emoji)
         await client.process_commands(message)
 
