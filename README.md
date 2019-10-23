@@ -22,5 +22,5 @@ The on_message code responds passively to any message which triggers its conditi
 
  - If Michael Lee sends a message, the bot reacts with an angry face emoji
 
-To access my test discord, use the following link: https://discord.gg/QRhYcQa
-Note that the bot must be running for the functions to work.
+I've set up a test account for you to use in order to evaluate the success of the bot, using my quest email: jacob.richardson@questu.ca
+The password for the account is Kermode2, and it is only able to access the test server. I've also given it moderator privileges, so you can run commands that have more serious consequences. If you need anything else, don't hesitate to let me know. This has been a challenging and engaging project, for sure!
